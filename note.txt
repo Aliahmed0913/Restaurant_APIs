@@ -1,0 +1,33 @@
+super_username : ali
+password : lololo30
+
+user : omer
+password : lololo30
+user_role : Manager 
+
+
+user : hoor
+password : lololo30
+user_role : Manager
+
+
+user : osman     
+password : lololo30
+user_role = delivery_crew
+
+
+user : razan   
+password : lololo30
+user_role = delivery_crew
+
+
+user : zainb   
+password : lololo30
+user_role = customer
+
+user : ola   
+password : lololo30
+user_role = customer
+
+
+
